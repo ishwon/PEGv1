@@ -4,8 +4,16 @@
 # PEGv1 - Project Evil Genius version 1
 # For details about this project please visit http://hacklog.in/peg.
 #
-# This work is licensed under a Creative Commons Attribution 3.0 Unported License.
-# License details at http://creativecommons.org/licenses/by/3.0.
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License at <http://www.gnu.org/licenses/> for
+# more details.
 #
 
 use strict;
